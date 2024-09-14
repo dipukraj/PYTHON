@@ -8,4 +8,5 @@ student = {
     }
 }
 
+print(student);
 print(student)

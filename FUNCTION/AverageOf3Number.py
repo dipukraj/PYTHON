@@ -6,4 +6,4 @@ def calc_avg(a,b,c):
     print(avg)
     return avg
 
-calc_avg(98,97,95)
+calc_avg(97,95,96)

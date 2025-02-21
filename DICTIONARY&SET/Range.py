@@ -17,15 +17,15 @@
 
 
 
-# for i in range(2,10):   #range(start,stop)
-
-#     print(i)
-
-
-
-for i in range(2,10,2):   #range(start,stop,step)
+for i in range(2,10):   #range(start,stop)
 
     print(i)
+
+
+
+# for i in range(2,10,2):   #range(start,stop,step)
+
+#     print(i)
 
 
 

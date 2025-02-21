@@ -1,18 +1,17 @@
-# print(range(5))
+print(range(5))
 
 
-
-#range(stop)
+# range(stop)
 
 # for i in range(10):
 #     print(i)
 
 
 
-seq = range(10)
+# seq = range(10)
 
-for i in seq:
-    print(i)
+# for i in seq:
+#     print(i)
 
 
 

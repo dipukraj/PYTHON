@@ -23,14 +23,14 @@
 
 
 
-# for i in range(2,10,2):   #range(start,stop,step)
+for i in range(2,10,2):   #range(start,stop,step)
 
-#     print(i)
-
-
-
-for i in range(2,100,2):  #even
     print(i)
+
+
+
+# for i in range(2,100,2):  #even
+#     print(i)
 
 
 # for i in range(1,101,2):  #odd

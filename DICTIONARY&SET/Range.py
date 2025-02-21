@@ -29,9 +29,9 @@
 
 
 
-# for i in range(2,100,2):  #even
-#     print(i)
-
-
-for i in range(1,101,2):  #odd
+for i in range(2,100,2):  #even
     print(i)
+
+
+# for i in range(1,101,2):  #odd
+#     print(i)
